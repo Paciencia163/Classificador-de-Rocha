@@ -46,6 +46,7 @@ streamlit run ClassificarRochas.py
     * Exibição das probabilidades de cada classe.
     * Possibilidade de salvar a classificação da imagem.
 
+![It is an image](https://github.com/NzolaKiampava/Classificador-de-Rocha/blob/main/Granite.jpg)
 ### Contribuições
 
 Contribuições são bem-vindas! Por favor, sinta-se à vontade para abrir um pull request com suas melhorias ou correções.
